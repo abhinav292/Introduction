@@ -3,6 +3,7 @@
 <div style=" font-size: medium; color: #447ff7" align=center>
 
   <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan&duration=3500&color=447FF7&background=FFFFFF00&lines=Hey!+it's+Abhinav+Sharma+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer++%F0%9F%A7%91%F0%9F%8F%BB%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+have+2%2B+years+of+experience+%F0%9F%93%88;In+making+websites)](https://git.io/typing-svg)" alt="Abhinav Sharmar" width="650" height="55">
+  <br>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
