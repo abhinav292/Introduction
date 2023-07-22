@@ -25,8 +25,8 @@
     <a href="https://www.w3schools.com/php/" target="_blank"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" height=40 width=50 />
     </a>
-    <a href="https://spring.io/projects/spring-cloud" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-cloud-81fe04ab129ab99da0e7c7115bb09920.svg" height=40 width=50 /> 
+    <a href="https://scikit-learn.org/stable/user_guide.html" target="_blank"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height=40 width=50 /> 
     </a>
 </p>
 
