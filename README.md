@@ -17,6 +17,10 @@
     <a href="https://www.w3schools.com/html/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" />
 </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" />
+</a>
+
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 </p>
 
