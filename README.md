@@ -51,7 +51,7 @@
 
 ### 🔹Messaging Queues:ㅤㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;"> 
-    <a style="padding-right:8px;" href="https://kafka.apache.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstawarczyk.pl%2Fwp-content%2Fuploads%2F2020%2F06%2Fkafka.png&f=1&nofb=1" height=65 width=50 /> </a>
+<!--     <a style="padding-right:8px;" href="https://kafka.apache.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstawarczyk.pl%2Fwp-content%2Fuploads%2F2020%2F06%2Fkafka.png&f=1&nofb=1" height=65 width=50 /> </a> -->
     <a style="padding-right:8px;" href="https://cloud.google.com/pubsub/docs/overview" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/google-cloud-pub-sub-logo.png" height=60 width=60 /> </a>
     <a style="padding-right:8px;" href="https://www.rabbitmq.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" height=60 width=60 /> </a>
     <a style="padding-right:8px;" href="https://aws.amazon.com/sqs/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/App_Services_copy_Amazon_SQS-512.png" height=65 width=70 /> </a>
@@ -60,7 +60,7 @@
 ### 🔹Architectural Styles:ㅤㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;"> 
     <a style="padding-right:8px;" href="https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design" target="_blank"> <img src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" height=65 width=70 /> </a>
-    <a style="padding-right:8px;" href="https://grpc.io/" target="_blank"> <img src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/white/grpc-horizontal-white.png" height=60 width=140 /> </a>
+<!--     <a style="padding-right:8px;" href="https://grpc.io/" target="_blank"> <img src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/white/grpc-horizontal-white.png" height=60 width=140 /> </a> -->
 </p>
 
 <p  align="center">
